@@ -1,0 +1,5 @@
+*You Got A Notification* A potential client has *inquiried the eligibility*.
+Please find details below: Name: *{{ name }}* Email: *{{ email }}* Phone: *{{ phone }}* Reside in Maryland: *{{residence}}* Move to Maryland in the near future: *{{moveIn}}* Currently have Medicaid: *{{medicaid}}* Have a green card: *{{greenCard}}* Have had green card for at least 5 years: *{{fiveYears}}* Eligibility: *{{eligibility}}* Contact (  {{email}} ) CCACC Adult Day Healthcare Center 9366 Gaither Rd, Gaithersburg MD 20877 Created By @Chenyu Wang
+( https://hellochenyu.net ) ♥ Proudly Serving Our Community ♥ (
+https://www.ccaccadultdaycare.org/ )
+

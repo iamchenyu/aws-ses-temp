@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1556.0",
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.7.8"
+  }
+}

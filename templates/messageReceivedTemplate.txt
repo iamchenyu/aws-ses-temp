@@ -1,0 +1,2 @@
+*You Got A Notification* A potential client has *left a message*.
+Please find details below: Name: *{{ name }}* Email: *{{ email }}* Phone: *{{ phone }}* Message: *{{message}}* Reply (  {{email}} ) CCACC Adult Day Healthcare Center 9366 Gaither Rd, Gaithersburg MD 20877 Created By @Chenyu Wang ( https://hellochenyu.net ) ♥ Proudly Serving Our Community ♥ ( https://www.ccaccadultdaycare.org/ )
